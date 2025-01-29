@@ -8,9 +8,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - machinelearning.qmd
 
 format:
   html:
+    page-layout: full
     theme: pulse
     css: styles.css
     toc: true

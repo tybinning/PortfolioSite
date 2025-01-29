@@ -1,1 +1,8 @@
 /* css styles */
+.ProfPhoto {
+    height: 30vh;
+    clip-path: inset(5px 0 45px 0);
+    object-fit: cover;
+    object-position: center top;
+    overflow: hidden;
+}

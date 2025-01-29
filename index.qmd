@@ -2,6 +2,107 @@
 title: "Portfolio"
 ---
 
-This is a Quarto website.
+# Big Image
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# Areas of Interest
+
+::: {.grid}
+
+::: {.g-col-6 .g-row-6 .border style="text-align: center; padding: 10px;"}
+symbol
+<br>
+<br>
+<br>
+<a href="machinelearning.qmd" >This column takes 2/3 of the page</a>
+
+
+:::
+
+
+::: {.g-col-6 .g-row-6 .border style="text-align: center; padding: 10px;"}
+symbol
+<br>
+<br>
+<br>
+This column takes 2/3 of the page 
+
+
+
+:::
+
+::: {.g-col-6 .g-row-6 .border style="text-align: center; padding: 10px;"}
+symbol
+<br>
+<br>
+<br>
+This column takes 2/3 of the page
+
+
+
+:::
+
+::: {.g-col-6 .g-row-6 .border style="text-align: center; padding: 10px;"}
+symbol
+<br>
+<br>
+<br>
+This column takes 2/3 of the page
+
+
+
+:::
+
+:::
+
+
+# My Latest Projects
+
+::: {.grid}
+
+::: {.g-col-6 .g-row-6 .border style="text-align: center; padding: 10px;"}
+symbol
+<br>
+<br>
+<br>
+Senior Capstone Project <br>
+Algorithmic Trading Platform
+
+
+:::
+
+
+::: {.g-col-6 .g-row-6 .border style="text-align: center; padding: 10px;"}
+symbol
+<br>
+<br>
+<br>
+This column takes 2/3 of the page 
+
+
+
+:::
+
+::: {.g-col-6 .g-row-6 .border style="text-align: center; padding: 10px;"}
+symbol
+<br>
+<br>
+<br>
+This column takes 2/3 of the page
+
+
+
+:::
+
+::: {.g-col-6 .g-row-6 .border style="text-align: center; padding: 10px;"}
+symbol
+<br>
+<br>
+<br>
+This column takes 2/3 of the page
+
+
+
+:::
+
+:::

@@ -1,7 +1,21 @@
 ---
-title: "About the Author"
+title: "About"
 ---
 
-There will be an Image of Tyler Binning somewhere within here, I'm just not exactly sure how I am going to be able to format this?
-I am wanting a circle similar to the style of linkedin.
 
+<!-- ![Professional Portrait](TylerBinning.jpg){width=50%} -->
+<img class="ProfPhoto" src="TylerBinning.jpg" alt="Professional Portrait">
+
+Hi, I'm Tyler Binning, a Data Scientist with a passion for turning complex data into actionable insights. With a background in data science and a strong interest in finance and technology, I enjoy solving real-world problems using machine learning, statistical modeling, and data-driven strategies. 
+
+Whether it's building predictive models, optimizing algorithms, or developing data-driven applications, I'm always eager to explore new challenges.
+
+# About Me
+
+I’ve always been drawn to the intersection of data, finance, and technology. My journey started with a fascination for analytics, which led me to pursue a degree in Data Science. Over time, I’ve worked on projects ranging from algorithmic trading and financial forecasting to deep learning applications in medical imaging.
+
+Beyond technical work, I enjoy connecting with others through data. As Vice President of Outreach for my school’s Data Science Society, I’ve helped bridge the gap between students and industry, organizing workshops and networking events.
+
+Currently, I’m exploring quantitative finance, algorithmic trading, and data-driven investment strategies while honing my skills in Python, machine learning, and cloud computing. My goal is to build intelligent systems that not only analyze data but also make informed, impactful decisions.
+
+When I’m not coding or analyzing trends, you can find me snowboarding, experimenting with new technologies (like Chrome extensions or Dash apps), or exploring innovative ways to visualize data.
